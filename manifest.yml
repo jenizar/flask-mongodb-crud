@@ -1,0 +1,8 @@
+---
+applications:
+- name: flask-mongodb-crud
+  memory: 128MB
+  disk_quota: 512MB
+  random-route: true
+  services:
+    - mongodb-crud
