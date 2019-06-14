@@ -1,6 +1,8 @@
 # flask-mongodb-crud
 Deploy simple CRUD website using MongoDB and Python-Flask on SAP Cloud Platform
 
+![alt text](https://github.com/jenizar/flask-mongodb-crud/blob/master/Screenshot.png)
+
 Youtube video:
 https://youtu.be/nW-agREHs7g
 
